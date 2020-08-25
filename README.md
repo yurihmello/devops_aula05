@@ -4,6 +4,7 @@ Leticia Maria Teruel Silva
 Yuri Homem de Mello Estopa
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 1904170 
 
 =======
@@ -11,4 +12,7 @@ Yuri Homem de Mello Estopa
 >>>>>>> v1
 =======
 1904170
+>>>>>>> v1
+=======
+1904170.
 >>>>>>> v1
