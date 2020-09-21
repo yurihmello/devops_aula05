@@ -1,3 +1,2 @@
-# devops_aula05
-Leticia Maria Teruel Silva 1903608 
+# devops_aula05 
 Yuri Homem de Mello Estopa 1904170.
